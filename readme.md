@@ -8,6 +8,20 @@ Criar um sistema que armazena e consulta livros.
 
 ### Resultados:
 
+```
+Olá, bem vindo a livraria!
+
+Deseja buscar um livro? S/N
+```
+
+**Retorno resposta Sim**
+
+```
+Esssas são as categorias disponíveis: Fantasia / Autoajuda / Religião / Design
+```
+
+> Ao selecionar a categoria desejada, irá ser retornado apenas os livros de determinada categoria.
+
 | ID  |                  Nome                   |     Autor      | Categoria | Páginas | Recomenda | Leu   |
 | :-: | :-------------------------------------: | :------------: | :-------: | ------- | --------- | ----- |
 |  1  |    Harry Potter e a Pedra Filosofal     |  J.K. Rowling  | Fantasia  | 208     | true      | true  |
