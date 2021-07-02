@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-Criar um sistema que armazena e consulta livros.
+Criar um sistema que consulta os livros, além de ter a opção de separa-los por categoria.
 
 ### Resultados:
 
@@ -21,6 +21,14 @@ Esssas são as categorias disponíveis: Fantasia / Autoajuda / Religião / Desig
 ```
 
 > Ao selecionar a categoria desejada, irá ser retornado apenas os livros de determinada categoria.
+
+**Retorto resposta Não**
+
+```
+Estes são os livros disponíveis:
+```
+
+> A lista abaixo é apresentada.
 
 | ID  |                  Nome                   |     Autor      | Categoria | Páginas | Recomenda | Leu   |
 | :-: | :-------------------------------------: | :------------: | :-------: | ------- | --------- | ----- |
