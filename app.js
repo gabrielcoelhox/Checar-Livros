@@ -3,7 +3,7 @@ const readline = require('readline-sync') // Pegar o Input do package-lock.json
 
 console.log('Olá, bem vindo a livraria!\n') // Apresentação
 
-const entradaInicial = readline.question('Deseja buscar um livro? S/N\n ') 
+const entradaInicial = readline.question('Deseja buscar um livro por categoria? S/N\n ') 
 
 if (entradaInicial.toLocaleUpperCase() === 'S') { // Se for S, mostra as categorias disponíveis
     console.log('Essas são as categorias disponíveis:\n')

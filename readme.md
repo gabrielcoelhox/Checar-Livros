@@ -11,7 +11,7 @@ Criar um sistema que consulta os livros, além de ter a opção de separa-los po
 ```
 Olá, bem vindo a livraria!
 
-Deseja buscar um livro? S/N
+Deseja buscar um livro por categoria? S/N
 ```
 
 **Retorno resposta Sim**
